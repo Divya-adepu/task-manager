@@ -1,0 +1,3 @@
+//this is the "saved tasks" which have been updated when testing of the code
+
+[{"title": "assignment", "completed": true}, {"title": "project", "completed": true}, {"title": "dishes", "completed": false}, {"title": "excercise", "completed": false}, {"title": "groceries", "completed": false}, {"title": "floor cleaning", "completed": true}]
